@@ -27,8 +27,8 @@ public class Application {
         muzik = not.nextInt();
 
         double ortalama = (matematik + fizik + kimya + turkce + tarih + muzik) / 6;
-        System.out.println("Not Ortalaması:" + ortalama);
-        System.out.println((ortalama > 60)? "Geçti":"Kaldı");
+        String sonuc = (ortalama > 60)? "Geçti":"Kaldı";
+        System.out.println(sonuc);
 
 
     }
