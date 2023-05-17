@@ -7,4 +7,4 @@
 
 [03-Java101 Ders3 Üçgen Alan Hesabı](https://github.com/kemakinka/Patika-Java101-Dersleri/blob/main/03-UcgenAlanHesabi.md)
 
-
+[04-Java101 Ders4 TaksimetreHesaplanması](https://github.com/kemakinka/Patika-Java101-Dersleri/blob/main/04-TaksimetreHesaplanmasi.md)
