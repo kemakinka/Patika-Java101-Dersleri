@@ -27,3 +27,5 @@
 
 [14-Java101 - Uçak Bilet Fiyatı](https://github.com/kemakinka/Patika-Java101-Dersleri/blob/main/14-UcakBiletFiyati.md)
 
+[15-Java101 - Çin Zodyakı Hesaplamak](https://github.com/kemakinka/Patika-Java101-Dersleri/blob/main/15-CinZodyakYiliHesaplama.md)
+
