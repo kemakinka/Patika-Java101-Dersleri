@@ -34,3 +34,5 @@
 [17-Java101 - Girilen Sayıya kadar ortalamasını hesaplayan program](https://github.com/kemakinka/Patika-Java101-Dersleri/blob/main/17-GirilenSayiyaKadarYazdiranProgram.md)
 
 [18-Java101 - Girilen Sayının Hem çift Hemde 4'e Bölünebilen Sayıların Toplamı](https://github.com/kemakinka/Patika-Java101-Dersleri/blob/main/18-HemCiftHemdeDordeBolunenSayilarinToplami.md)
+
+[19-GirilenSayiyaKadarOlanSayilarin4ve5inKatlari](https://github.com/kemakinka/Patika-Java101-Dersleri/blob/main/19-GirilenSayiyaKadarOlanSayilarin4ve5inKatlari.md)
