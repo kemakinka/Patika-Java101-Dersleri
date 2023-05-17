@@ -16,3 +16,7 @@
 [07-Java101 - Manav Kasa Hesabı](https://github.com/kemakinka/Patika-Java101-Dersleri/blob/main/07-ManavKasa.md)
 
 [08-Java101 - Hesap Makinesi](https://github.com/kemakinka/Patika-Java101-Dersleri/blob/main/08-HesapMakinesi.md)
+
+[09-Java101 - Kullanıcı Girişi](https://github.com/kemakinka/Patika-Java101-Dersleri/blob/main/09-KullaniciGirisi.md)
+
+[10-Java101 - Sınıf Geçme Durumu](https://github.com/kemakinka/Patika-Java101-Dersleri/blob/main/10-SinifGecmeDurumu.md)
