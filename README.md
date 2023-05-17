@@ -10,3 +10,5 @@
 [04-Java101 - Taksimetre Hesaplanması](https://github.com/kemakinka/Patika-Java101-Dersleri/blob/main/04-TaksimetreHesaplanmasi.md)
 
 [05-Java101 - Daire Dilimi Hespalanmasi](https://github.com/kemakinka/Patika-Java101-Dersleri/blob/main/05-DaireDilimi.md)
+
+[06-Java101 - Vücut İndeksi](https://github.com/kemakinka/Patika-Java101-Dersleri/blob/main/06-VucutIndeksi.md)
