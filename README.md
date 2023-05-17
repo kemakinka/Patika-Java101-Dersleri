@@ -32,3 +32,5 @@
 [16-Java101 - Artık Yıl Bulmak](https://github.com/kemakinka/Patika-Java101-Dersleri/blob/main/16-ArtikYilBulma.md)
 
 [17-Java101 - Girilen Sayıya kadar ortalamasını hesaplayan program](https://github.com/kemakinka/Patika-Java101-Dersleri/blob/main/17-GirilenSayiyaKadarYazdiranProgram.md)
+
+[18-Java101 - Girilen Sayının Hem çift Hemde 4'e Bölünebilen Sayıların Toplamı](https://github.com/kemakinka/Patika-Java101-Dersleri/blob/main/18-HemCiftHemdeDordeBolunenSayilarinToplami.md)
