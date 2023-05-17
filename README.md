@@ -36,3 +36,7 @@
 [18-Java101 - Girilen Sayının Hem çift Hemde 4'e Bölünebilen Sayıların Toplamı](https://github.com/kemakinka/Patika-Java101-Dersleri/blob/main/18-HemCiftHemdeDordeBolunenSayilarinToplami.md)
 
 [19-GirilenSayiyaKadarOlanSayilarin4ve5inKatlari](https://github.com/kemakinka/Patika-Java101-Dersleri/blob/main/19-GirilenSayiyaKadarOlanSayilarin4ve5inKatlari.md)
+
+[20-Kombinasyon Hesaplama](https://github.com/kemakinka/Patika-Java101-Dersleri/blob/main/20-KombinasyonHesaplama.md)
+
+[21-Üslü Sayıları Hesaplama](https://github.com/kemakinka/Patika-Java101-Dersleri/blob/main/21-UsluSayilarHesaplama.md)
