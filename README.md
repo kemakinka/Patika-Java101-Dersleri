@@ -20,3 +20,6 @@
 [10-Java101 - Sınıf Geçme Durumu](https://github.com/kemakinka/Patika-Java101-Dersleri/blob/main/10-SinifGecmeDurumu.md)
 
 [11-Java101 - Sayıların Büyükten Küçüğe Sıralaması](https://github.com/kemakinka/Patika-Java101-Dersleri/blob/main/12-SayilarinBuyuktenKucugeSiralamasi.md)
+
+[12-Java101 - Burç Bulan Program](https://github.com/kemakinka/Patika-Java101-Dersleri/blob/main/13-BurcBulanProgram.md)
+
