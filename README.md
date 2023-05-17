@@ -14,3 +14,5 @@
 [06-Java101 - Vücut İndeksi](https://github.com/kemakinka/Patika-Java101-Dersleri/blob/main/06-VucutIndeksi.md)
 
 [07-Java101 - Manav Kasa Hesabı](https://github.com/kemakinka/Patika-Java101-Dersleri/blob/main/07-ManavKasa.md)
+
+[08-Java101 - Hesap Makinesi](https://github.com/soltannzr/Java101/blob/master/src/HesapMakinesi.java)
