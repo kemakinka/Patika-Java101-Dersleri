@@ -18,3 +18,5 @@
 [09-Java101 - Kullanıcı Girişi](https://github.com/kemakinka/Patika-Java101-Dersleri/blob/main/09-KullaniciGirisi.md)
 
 [10-Java101 - Sınıf Geçme Durumu](https://github.com/kemakinka/Patika-Java101-Dersleri/blob/main/10-SinifGecmeDurumu.md)
+
+[11-Java101 - Sayıların Büyükten Küçüğe Sıralaması](https://github.com/kemakinka/Patika-Java101-Dersleri/blob/main/12-SayilarinBuyuktenKucugeSiralamasi.md)
