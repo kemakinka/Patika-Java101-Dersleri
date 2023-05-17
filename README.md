@@ -25,3 +25,5 @@
 
 [13-Java101 - Burç Bulan Program](https://github.com/kemakinka/Patika-Java101-Dersleri/blob/main/13-BurcBulanProgram.md)
 
+[14-Java101 - Uçak Bilet Fiyatı](https://github.com/kemakinka/Patika-Java101-Dersleri/blob/main/14-UcakBiletFiyati.md)
+
