@@ -58,3 +58,5 @@
 [29- Ters Üçgen Yapımı](https://github.com/kemakinka/Patika-Java101-Dersleri/blob/main/29-TersUcgenYapimi.md)
 
 [30-1-100 Arasindaki Asal Sayilar](https://github.com/kemakinka/Patika-Java101-Dersleri/blob/main/30-1-100ArasindakiAsalSayilar.md)
+
+[31- Fibonacci Serisi](https://github.com/kemakinka/Patika-Java101-Dersleri/blob/main/31-FibonacciSerisi.md)
