@@ -45,3 +45,4 @@
 
 [23- Harmonik Bulmak Sayıları](https://github.com/kemakinka/Patika-Java101-Dersleri/blob/main/23-HarmonikSayilar.md)
 
+[24- Yıldızlarla Elmas Yapmak](https://github.com/kemakinka/Patika-Java101-Dersleri/blob/main/24-YildizlarileElmasYapimi.md)
