@@ -51,6 +51,6 @@
 
 [26- Ebob Ekok Bulma](https://github.com/kemakinka/Patika-Java101-Dersleri/blob/main/26-EbobEkokBulma.md)
 
-
+[27- Girilen En büyük ve En Küçük Sayıyı Bulmak](https://github.com/kemakinka/Patika-Java101-Dersleri/blob/main/27-GirilenSayilarinBuyukveKucukOlanlariBulma.md)
 
 
