@@ -40,3 +40,8 @@
 [20-Kombinasyon Hesaplama](https://github.com/kemakinka/Patika-Java101-Dersleri/blob/main/20-KombinasyonHesaplama.md)
 
 [21-Üslü Sayıları Hesaplama](https://github.com/kemakinka/Patika-Java101-Dersleri/blob/main/21-UsluSayilarHesaplama.md)
+
+[22-Amstrong Sayıları Bulmak](https://github.com/kemakinka/Patika-Java101-Dersleri/blob/main/22-ArmstrongSayilar.md)
+
+
+
