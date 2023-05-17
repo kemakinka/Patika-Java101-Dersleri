@@ -43,5 +43,5 @@
 
 [22-Amstrong Sayıları Bulmak](https://github.com/kemakinka/Patika-Java101-Dersleri/blob/main/22-ArmstrongSayilar.md)
 
-
+[23- Harmonik Bulmak Sayıları](https://github.com/kemakinka/Patika-Java101-Dersleri/blob/main/23-HarmonikSayilar.md)
 
