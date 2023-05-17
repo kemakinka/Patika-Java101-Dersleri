@@ -47,4 +47,10 @@
 
 [24- Yıldızlarla Elmas Yapmak](https://github.com/kemakinka/Patika-Java101-Dersleri/blob/main/24-YildizlarileElmasYapimi.md)
 
-[25- Atm Projesi](https://github.com/kemakinka/Patika-Java101-Dersleri/blob/main/25-AtmProjesi)
+[25- Atm Projesi](https://github.com/kemakinka/Patika-Java101-Dersleri/blob/main/25-AtmProjesi.md)
+
+[26- Ebob Ekok Bulma](https://github.com/kemakinka/Patika-Java101-Dersleri/blob/main/26-EbobEkokBulma.md)
+
+
+
+
