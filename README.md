@@ -29,3 +29,4 @@
 
 [15-Java101 - Çin Zodyakı Hesaplamak](https://github.com/kemakinka/Patika-Java101-Dersleri/blob/main/15-CinZodyakYiliHesaplama.md)
 
+[16-Java101 - Artık Yıl Bulmak](https://github.com/kemakinka/Patika-Java101-Dersleri/blob/main/16-ArtikYilBulma.md)
