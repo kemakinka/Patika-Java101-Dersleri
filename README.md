@@ -54,3 +54,5 @@
 [27- Girilen En büyük ve En Küçük Sayıyı Bulmak](https://github.com/kemakinka/Patika-Java101-Dersleri/blob/main/27-GirilenSayilarinBuyukveKucukOlanlariBulma.md)
 
 [28- Mükemmel Sayıyı Bulmak](https://github.com/kemakinka/Patika-Java101-Dersleri/blob/main/28-MukemmelNumarayiBulmak.md)
+
+[29- Ters Üçgen Yapımı](https://github.com/kemakinka/Patika-Java101-Dersleri/blob/main/29-TerUcgenYapimi.md)
