@@ -15,4 +15,4 @@
 
 [07-Java101 - Manav Kasa Hesabı](https://github.com/kemakinka/Patika-Java101-Dersleri/blob/main/07-ManavKasa.md)
 
-[08-Java101 - Hesap Makinesi](https://github.com/soltannzr/Java101/blob/master/src/HesapMakinesi.java)
+[08-Java101 - Hesap Makinesi](https://github.com/kemakinka/Patika-Java101-Dersleri/blob/main/08-HesapMakinesi.md)
