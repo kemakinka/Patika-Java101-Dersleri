@@ -79,6 +79,11 @@
 
 [40- Java101 - Dizideki Harmonik Sayıların Ortalaması](https://github.com/kemakinka/Patika-Java101-Dersleri/blob/main/40-DizidekiHarmonikSayilarinOrtalamasi.md)
 
-[41- Java101 - Çok Boyutlu Diziler](https://github.com/kemakinka/Patika-Java101-Dersleri/blob/main/42-CokBoyutluDiziler.md)
+[41- Java101 - Dizideki Sayıların Küçük ve Büyük Sayılar](https://github.com/kemakinka/Patika-Java101-Dersleri/blob/main/41-DizidekiSayilarinKucukVeBuyugeEnYakinOlanlari.md)
 
+[42- Java101 - Çok Boyutlu Diziler](https://github.com/kemakinka/Patika-Java101-Dersleri/blob/main/42-CokBoyutluDiziler.md)
+
+[43- Java101 - Dizideki Tekrar Eden Sayilar](https://github.com/kemakinka/Patika-Java101-Dersleri/blob/main/43-DizidekiTekrarEdenSayilar.md)
+
+[44- Java101 - Kullanıcıdan Veri Alınarak Diziyi Sıralamak](https://github.com/kemakinka/Patika-Java101-Dersleri/blob/main/44-KullanicidanAlinanDiziyiSiralama.md)
 
