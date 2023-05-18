@@ -89,3 +89,5 @@
 
 [45- Java101 - Dizideki Elemanların Frekansı](https://github.com/kemakinka/Patika-Java101-Dersleri/blob/main/45-DizidekiElemanlarinFrekansi.md)
 
+[46- Java101 - Matrix Transpozu](https://github.com/kemakinka/Patika-Java101-Dersleri/blob/main/46-MatrixTranspozu.md)
+
