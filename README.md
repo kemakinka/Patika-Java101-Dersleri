@@ -70,3 +70,5 @@
 [35- Java101 - Asal Sayı Bulma](https://github.com/kemakinka/Patika-Java101-Dersleri/blob/main/35-AsalSayiBulma.md)
 
 [36- Java101 - Desene Göre Method Oluşturma](https://github.com/kemakinka/Patika-Java101-Dersleri/blob/main/36-DeseneGoreMethodOlusturma.md)
+
+[37- Java101 - Öğrenci Bilgi Sistemi](https://github.com/kemakinka/Patika-Java101-Dersleri/blob/main/37-OgrenciBilgiSistemi.md)
