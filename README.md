@@ -66,3 +66,5 @@
 [33- Java101 - Hesap Makinesi 2](https://github.com/kemakinka/Patika-Java101-Dersleri/blob/main/33-HesapMakinesi2.md)
 
 [34- Java101 - Üs Hesaplama Recursive](https://github.com/kemakinka/Patika-Java101-Dersleri/blob/main/34-UsHesaplamaRecursive.md)
+
+[35- Java101 - Asal Sayı Bulma](https://github.com/kemakinka/Patika-Java101-Dersleri/blob/main/35-AsalSayiBulma.md)
