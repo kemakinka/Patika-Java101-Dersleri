@@ -87,3 +87,5 @@
 
 [44- Java101 - Kullanıcıdan Veri Alınarak Diziyi Sıralamak](https://github.com/kemakinka/Patika-Java101-Dersleri/blob/main/44-KullanicidanAlinanDiziyiSiralama.md)
 
+[45- Java101 - Dizideki Elemanların Frekansı](https://github.com/kemakinka/Patika-Java101-Dersleri/blob/main/45-DizidekiElemanlarinFrekansi.md)
+
