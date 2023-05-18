@@ -35,30 +35,30 @@
 
 [18-Java101 - Girilen Sayının Hem çift Hemde 4'e Bölünebilen Sayıların Toplamı](https://github.com/kemakinka/Patika-Java101-Dersleri/blob/main/18-HemCiftHemdeDordeBolunenSayilarinToplami.md)
 
-[19-GirilenSayiyaKadarOlanSayilarin4ve5inKatlari](https://github.com/kemakinka/Patika-Java101-Dersleri/blob/main/19-GirilenSayiyaKadarOlanSayilarin4ve5inKatlari.md)
+[19-Java101 - GirilenSayiyaKadarOlanSayilarin4ve5inKatlari](https://github.com/kemakinka/Patika-Java101-Dersleri/blob/main/19-GirilenSayiyaKadarOlanSayilarin4ve5inKatlari.md)
 
-[20-Kombinasyon Hesaplama](https://github.com/kemakinka/Patika-Java101-Dersleri/blob/main/20-KombinasyonHesaplama.md)
+[20-Java101 - Kombinasyon Hesaplama](https://github.com/kemakinka/Patika-Java101-Dersleri/blob/main/20-KombinasyonHesaplama.md)
 
-[21-Üslü Sayıları Hesaplama](https://github.com/kemakinka/Patika-Java101-Dersleri/blob/main/21-UsluSayilarHesaplama.md)
+[21-Java101 - Üslü Sayıları Hesaplama](https://github.com/kemakinka/Patika-Java101-Dersleri/blob/main/21-UsluSayilarHesaplama.md)
 
-[22-Amstrong Sayıları Bulmak](https://github.com/kemakinka/Patika-Java101-Dersleri/blob/main/22-ArmstrongSayilar.md)
+[22-Java101 - Amstrong Sayıları Bulmak](https://github.com/kemakinka/Patika-Java101-Dersleri/blob/main/22-ArmstrongSayilar.md)
 
-[23- Harmonik Bulmak Sayıları](https://github.com/kemakinka/Patika-Java101-Dersleri/blob/main/23-HarmonikSayilar.md)
+[23-Java101 - Harmonik Bulmak Sayıları](https://github.com/kemakinka/Patika-Java101-Dersleri/blob/main/23-HarmonikSayilar.md)
 
-[24- Yıldızlarla Elmas Yapmak](https://github.com/kemakinka/Patika-Java101-Dersleri/blob/main/24-YildizlarileElmasYapimi.md)
+[24-Java101 - Yıldızlarla Elmas Yapmak](https://github.com/kemakinka/Patika-Java101-Dersleri/blob/main/24-YildizlarileElmasYapimi.md)
 
-[25- Atm Projesi](https://github.com/kemakinka/Patika-Java101-Dersleri/blob/main/25-AtmProjesi.md)
+[25-Java101 - Atm Projesi](https://github.com/kemakinka/Patika-Java101-Dersleri/blob/main/25-AtmProjesi.md)
 
-[26- Ebob Ekok Bulma](https://github.com/kemakinka/Patika-Java101-Dersleri/blob/main/26-EbobEkokBulma.md)
+[26-Java101 - Ebob Ekok Bulma](https://github.com/kemakinka/Patika-Java101-Dersleri/blob/main/26-EbobEkokBulma.md)
 
-[27- Girilen En büyük ve En Küçük Sayıyı Bulmak](https://github.com/kemakinka/Patika-Java101-Dersleri/blob/main/27-GirilenSayilarinBuyukveKucukOlanlariBulma.md)
+[27-Java101 - Girilen En büyük ve En Küçük Sayıyı Bulmak](https://github.com/kemakinka/Patika-Java101-Dersleri/blob/main/27-GirilenSayilarinBuyukveKucukOlanlariBulma.md)
 
-[28- Mükemmel Sayıyı Bulmak](https://github.com/kemakinka/Patika-Java101-Dersleri/blob/main/28-MukemmelNumarayiBulmak.md)
+[28-Java101 - Mükemmel Sayıyı Bulmak](https://github.com/kemakinka/Patika-Java101-Dersleri/blob/main/28-MukemmelNumarayiBulmak.md)
 
-[29- Ters Üçgen Yapımı](https://github.com/kemakinka/Patika-Java101-Dersleri/blob/main/29-TersUcgenYapimi.md)
+[29-Java101 - Ters Üçgen Yapımı](https://github.com/kemakinka/Patika-Java101-Dersleri/blob/main/29-TersUcgenYapimi.md)
 
-[30-1-100 Arasindaki Asal Sayilar](https://github.com/kemakinka/Patika-Java101-Dersleri/blob/main/30-1-100ArasindakiAsalSayilar.md)
+[30-Java101 - 1-100 Arasindaki Asal Sayilar](https://github.com/kemakinka/Patika-Java101-Dersleri/blob/main/30-1-100ArasindakiAsalSayilar.md)
 
-[31- Fibonacci Serisi](https://github.com/kemakinka/Patika-Java101-Dersleri/blob/main/31-FibonacciSerisi.md)
+[31-Java101 - Fibonacci Serisi](https://github.com/kemakinka/Patika-Java101-Dersleri/blob/main/31-FibonacciSerisi.md)
 
-[32- Palindrom Sayısı](https://github.com/kemakinka/Patika-Java101-Dersleri/blob/main/32-PalindromSayi.md)
+[32-Java101 - Palindrom Sayısı](https://github.com/kemakinka/Patika-Java101-Dersleri/blob/main/32-PalindromSayi.md)
