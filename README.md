@@ -74,3 +74,5 @@
 [37- Java101 - Öğrenci Bilgi Sistemi](https://github.com/kemakinka/Patika-Java101-Dersleri/blob/main/37-OgrenciBilgiSistemi.md)
 
 [38- Java101 - Boks Oyunu](https://github.com/kemakinka/Patika-Java101-Dersleri/blob/main/38-BoksOyunu.md)
+
+[39- Java101 - Maaş Hesaplama](https://github.com/kemakinka/Patika-Java101-Dersleri/blob/main/39-MaasHesaplama.md)
