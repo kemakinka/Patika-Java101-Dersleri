@@ -64,3 +64,5 @@
 [32-Java101 - Palindrom Sayısı](https://github.com/kemakinka/Patika-Java101-Dersleri/blob/main/32-PalindromSayi.md)
 
 [33- Java101 - Hesap Makinesi 2](https://github.com/kemakinka/Patika-Java101-Dersleri/blob/main/33-HesapMakinesi2.md)
+
+[34- Java101 - Üs Hesaplama Recursive](https://github.com/kemakinka/Patika-Java101-Dersleri/blob/main/34-UsHesaplamaRecursive.md)
