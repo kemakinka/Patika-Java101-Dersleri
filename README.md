@@ -68,3 +68,5 @@
 [34- Java101 - Üs Hesaplama Recursive](https://github.com/kemakinka/Patika-Java101-Dersleri/blob/main/34-UsHesaplamaRecursive.md)
 
 [35- Java101 - Asal Sayı Bulma](https://github.com/kemakinka/Patika-Java101-Dersleri/blob/main/35-AsalSayiBulma.md)
+
+[36- Java101 - Desene Göre Method Oluşturma](https://github.com/kemakinka/Patika-Java101-Dersleri/blob/main/36-DeseneGoreMethodOlusturma.md)
