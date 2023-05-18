@@ -60,3 +60,5 @@
 [30-1-100 Arasindaki Asal Sayilar](https://github.com/kemakinka/Patika-Java101-Dersleri/blob/main/30-1-100ArasindakiAsalSayilar.md)
 
 [31- Fibonacci Serisi](https://github.com/kemakinka/Patika-Java101-Dersleri/blob/main/31-FibonacciSerisi.md)
+
+[32- Palindrom Sayısı](https://github.com/kemakinka/Patika-Java101-Dersleri/blob/main/32-PalindromSayi.md)
