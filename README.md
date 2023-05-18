@@ -76,3 +76,5 @@
 [38- Java101 - Boks Oyunu](https://github.com/kemakinka/Patika-Java101-Dersleri/blob/main/38-BoksOyunu.md)
 
 [39- Java101 - Maaş Hesaplama](https://github.com/kemakinka/Patika-Java101-Dersleri/blob/main/39-MaasHesaplama.md)
+
+[40- Java101 - Dizideki Harmonik Sayıların Ortalaması](https://github.com/kemakinka/Patika-Java101-Dersleri/blob/main/40-DizidekiHarmonikSayilarinOrtalamasi.md)
