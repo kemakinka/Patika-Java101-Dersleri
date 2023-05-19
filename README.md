@@ -93,3 +93,5 @@
 
 [47- Java101 - Sayı Tahmin Oyunu](https://github.com/kemakinka/Patika-Java101-Dersleri/blob/main/47-SayiTahminOyunu.md)
 
+[48- Java101 - Palindromik Kelimeler](https://github.com/kemakinka/Patika-Java101-Dersleri/blob/main/48-PalindrikKelimeler.md)
+
