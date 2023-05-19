@@ -91,3 +91,5 @@
 
 [46- Java101 - Matrix Transpozu](https://github.com/kemakinka/Patika-Java101-Dersleri/blob/main/46-MatrixTranspozu.md)
 
+[47- Java101 - Sayı Tahmin Oyunu](https://github.com/kemakinka/Patika-Java101-Dersleri/blob/main/47-SayiTahminOyunu.md)
+
