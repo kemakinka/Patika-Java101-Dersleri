@@ -95,3 +95,5 @@
 
 [48- Java101 - Palindromik Kelimeler](https://github.com/kemakinka/Patika-Java101-Dersleri/blob/main/48-PalindrikKelimeler.md)
 
+[49- Java101 - Mayın Tarlası](https://github.com/kemakinka/Patika-Java101-Dersleri/blob/main/49-MayinTarlasi.md)
+
